@@ -10,7 +10,7 @@ Patterns with a refined and expanded parameter set for [gf](https://github.com/t
    ```
    
 2. Clone this repository:
-      ```bash
+   ```bash
    git clone https://github.com/Danzry/gf-p4tterns.git
    ```
 
@@ -23,14 +23,14 @@ Patterns with a refined and expanded parameter set for [gf](https://github.com/t
 ## ⌨ Usage
 
 1. List all available patterns:
-  ```bash
-  gf -list
-  ```
+   ```bash
+   gf -list
+   ```
 
 2. Display only the entries that match the chosen pattern:
-  ```bash
-  cat urls.txt | gf rce
-  ```
+   ```bash
+   cat urls.txt | gf rce
+   ```
 
 ## 🗒 Available Patterns
 
