@@ -1,0 +1,5 @@
+{
+    "flags": "-iE",
+    "pattern": "(\\?|&)(activity|content|email|format|id|message|name|preview|profile|redirect|render|subject|template|view)="
+}
+

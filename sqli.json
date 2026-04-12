@@ -1,0 +1,5 @@
+{
+    "flags": "-iE",
+    "pattern": "(\\?|&)(board|callback|category|cid|city_id|class|column|comment_id|content_id|date|delete|detail|dir|email|fetch|field|file|filter|firstname|first_name|from|group|id|item|item_id|join|keyword|lang|last_content_id|lastname|last_name|limit|login|longitude|main|menu|name|nav|news|number|offset|order|orm|page|params|pass|password|pid|process|q|query|ref|region|register|report|reset|results|role|row|search|sel|select|sleep|sort|string|table|thread|time|title|topic|type|update|user|username|users|view|where)="
+}
+

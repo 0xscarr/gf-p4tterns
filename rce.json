@@ -1,0 +1,5 @@
+{
+    "flags": "-iE",
+    "pattern": "(\\?|&)(arg|cli|cmd|cmd.exe|cmdline|code|command|daemon|dir|do|download|eval|exe|exec|execute|exec_cmd|exec_path|feature|func|function|include|ip|job|jump|load|log|module|module_path|option|os_cmd|payload|ping|powershell|print|process|query|read|reg|req|require|run|run_cmd|run_command|script|service|sh|shell|spawn|step|system|task|upload)="
+}
+

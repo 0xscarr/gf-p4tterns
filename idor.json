@@ -1,0 +1,4 @@
+{
+  "flags": "-iE",
+  "pattern": "(\\?|&)(account|account_id|cid|doc|edit|email|file|gid|group|handle|id|info|item|key|member|member_id|no|number|order|pid|profile|profile_id|ref|report|uid|user|username|users|uuid)="
+}
