@@ -22,12 +22,12 @@ Patterns with a refined and expanded parameter set for [gf](https://github.com/t
 
 ## ⌨ Usage
 
-- List all available patterns:
+1. List all available patterns:
   ```bash
   gf -list
   ```
 
-- Read a list of URLs and display only the entries that match the chosen pattern:
+2. Display only the entries that match the chosen pattern:
   ```bash
   cat urls.txt | gf rce
   ```
