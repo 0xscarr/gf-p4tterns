@@ -2,9 +2,6 @@
 
 Patterns with a refined and expanded parameter set for [gf](https://github.com/tomnomnom/gf), a wrapper around `grep` by [TomNomNom](https://github.com/tomnomnom). These patterns help narrow down large URL lists by matching common query parameters.
 
-> [!NOTE]
-> They are meant to support manual review and testing, not to confirm vulnerabilities.
-
 ## 🛠 Installation
 
 1. Install [gf](https://github.com/tomnomnom/gf) if it is not already installed on your system:
